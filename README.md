@@ -10,6 +10,10 @@
 
 ## HOW TO USE
 
+### INSTALL
+> **NOTE**  
+> `npm install CKIIC`
+
 ### IMPORT
 ```javascript
 const ckiic = require('ckiic');
